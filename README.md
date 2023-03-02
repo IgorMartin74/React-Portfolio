@@ -7,7 +7,7 @@
 * Props
 * React Tools
 * State
-* this
+* `this`
 * Functional vs Class components
 * Component based architecture
 * Code organization
